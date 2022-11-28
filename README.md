@@ -8,6 +8,7 @@ Suatu perusahaan harus selalu survive agar dapat terus bersaing dengan perusahaa
 - Fitur apa yang paling mempengaruhi harga rumah?
 # Goals
 - Mengetahui fitur yang paling berkorelasi dengan harga rumah.
+
 Metodologi Prediksi harga adalah tujuan yang ingin dicapai. Seperti yang kita tahu, harga merupakan variabel kontinu. Dalam predictive analytics, saat membuat prediksi variabel kontinu artinya Anda sedang menyelesaikan permasalahan regresi. Oleh karena itu, metodologi pada proyek ini adalah: membangun model regresi dengan harga diamonds sebagai target. Metrik Pengembangan model akan menggunakan beberapa algoritma machine learning yaitu K-Nearest Neighbor, Random Forest, dan Boosting Algorithm. Dari ketiga model ini, akan dipilih satu model yang memiliki nilai kesalahan prediksi terkecil.
 # Data Understanding
 Data yang digunakan pada project ini adalah kc_house_data.csv yang berisikan rumah pada King County pada Amerika Serikat. Dataset ini memiliki 21613 sampel data dengan berbagai macam karakteriskik. karakteristik yang dimaksud adalah fitur non numerik, pada dataset ini hanya memiliki 1 non numerik, yaitu date. fitur numerik pada dataset ini adalah floors, price, bedroom. fitur fitur ini yang akan digunakan  dalam menemukan pola pada data, sedangkan harga merupakan fitur target. Adapun uraikan seluruh variabel atau fitur pada data, adalah sebagai berikut:
