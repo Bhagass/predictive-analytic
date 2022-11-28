@@ -16,5 +16,6 @@ Data yang digunakan pada project ini adalah kc_house_data.csv yang berisikan rum
 - floors = keterangan jumlah lantai
 - price = keterangan harga
 - bedroom = keterangan jumlah kamar tidur
+
 dataset dapat dilihat dan diunduh pada link berikut: https://www.kaggle.com/datasets/shivachandel/kc-house-data
 
